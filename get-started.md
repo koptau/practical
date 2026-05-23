@@ -1,0 +1,2 @@
+# git Practicals 
+## git commad 
