@@ -1,3 +1,5 @@
 hi there
-koptau
-yagie tau the king of code 
+Remember to :
+focus on uderstanding the fundmentals of what how to use git hub and git 
+first step is to initualize the repo and add my global credantials (namr and email) 
+sec is to add file  with touch [file ] then edit the file with you likings and then stage when conplete 

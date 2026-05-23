@@ -1,2 +1,6 @@
 .env
+<<<<<<< HEAD
 /effort/app.js
+=======
+/extra-effort/app.js
+>>>>>>> main
