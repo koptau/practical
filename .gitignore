@@ -1,3 +1,11 @@
 .env
+<<<<<<< HEAD
 extra-effort/
 login.md
+=======
+<<<<<<< HEAD
+/effort/app.js
+=======
+/extra-effort/app.js
+>>>>>>> main
+>>>>>>> main
